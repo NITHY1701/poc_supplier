@@ -1,0 +1,8 @@
+com/zmast/poc/model/Supplier.class
+com/zmast/poc/service/SupplierServiceImpl.class
+com/zmast/poc/controller/SupplierController.class
+com/zmast/poc/repository/SupplierRepository.class
+com/zmast/poc/RestApiApplication.class
+com/zmast/poc/RestConfig.class
+com/zmast/poc/SwaggerConfig.class
+com/zmast/poc/service/SupplierService.class
